@@ -1,0 +1,22 @@
+.navbar, .navbar-expand-lg, .navbar-light, .bg-light  {
+    background-color: #249303;
+}
+.navbar-brand img {
+    display: block;
+    width: 250px;
+    margin: auto;
+}
+.navbar-nav {
+    
+    font-size: 18px;
+    position: absolute;
+    right: 14px;
+}
+.nav-item {
+    padding-right: 25px;
+    font-family: 'Iceland', cursive;
+
+}
+.navbar-light {
+    color: #96EA9C;
+}
